@@ -1,0 +1,2005 @@
+2023/07/29 19:06:22 [notice] 1#1: using the "epoll" event method
+2023/07/29 19:06:22 [notice] 1#1: nginx/1.25.1
+2023/07/29 19:06:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/07/29 19:06:22 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/07/29 19:06:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/07/29 19:06:22 [notice] 1#1: start worker processes
+2023/07/29 19:06:22 [notice] 1#1: start worker process 28
+2023/07/29 19:14:27 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/07/29 19:14:27 [notice] 28#28: gracefully shutting down
+2023/07/29 19:14:27 [notice] 28#28: exiting
+2023/07/29 19:14:27 [notice] 28#28: exit
+2023/07/29 19:14:27 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2023/07/29 19:14:27 [notice] 1#1: worker process 28 exited with code 0
+2023/07/29 19:14:27 [notice] 1#1: exit
+2023/08/01 04:18:58 [notice] 1#1: using the "epoll" event method
+2023/08/01 04:18:58 [notice] 1#1: nginx/1.25.1
+2023/08/01 04:18:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/01 04:18:58 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/01 04:18:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/01 04:18:58 [notice] 1#1: start worker processes
+2023/08/01 04:18:58 [notice] 1#1: start worker process 29
+2023/08/01 04:20:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/01 04:20:53 [notice] 29#29: gracefully shutting down
+2023/08/01 04:20:53 [notice] 29#29: exiting
+2023/08/01 04:20:53 [notice] 29#29: exit
+2023/08/01 04:20:53 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/01 04:20:53 [notice] 1#1: worker process 29 exited with code 0
+2023/08/01 04:20:53 [notice] 1#1: exit
+2023/08/04 14:59:53 [notice] 1#1: using the "epoll" event method
+2023/08/04 14:59:53 [notice] 1#1: nginx/1.25.1
+2023/08/04 14:59:53 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/04 14:59:53 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/04 14:59:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/04 14:59:53 [notice] 1#1: start worker processes
+2023/08/04 14:59:53 [notice] 1#1: start worker process 28
+2023/08/04 15:07:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/04 15:07:00 [notice] 28#28: gracefully shutting down
+2023/08/04 15:07:00 [notice] 28#28: exiting
+2023/08/04 15:07:00 [notice] 28#28: exit
+2023/08/04 15:07:00 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2023/08/04 15:07:00 [notice] 1#1: worker process 28 exited with code 0
+2023/08/04 15:07:00 [notice] 1#1: exit
+2023/08/04 15:07:53 [notice] 1#1: using the "epoll" event method
+2023/08/04 15:07:53 [notice] 1#1: nginx/1.25.1
+2023/08/04 15:07:53 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/04 15:07:53 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/04 15:07:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/04 15:07:53 [notice] 1#1: start worker processes
+2023/08/04 15:07:53 [notice] 1#1: start worker process 23
+2023/08/04 15:08:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/04 15:08:02 [notice] 23#23: gracefully shutting down
+2023/08/04 15:08:02 [notice] 23#23: exiting
+2023/08/04 15:08:02 [notice] 23#23: exit
+2023/08/04 15:08:02 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/08/04 15:08:02 [notice] 1#1: worker process 23 exited with code 0
+2023/08/04 15:08:02 [notice] 1#1: exit
+2023/08/04 15:09:20 [notice] 1#1: using the "epoll" event method
+2023/08/04 15:09:20 [notice] 1#1: nginx/1.25.1
+2023/08/04 15:09:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/04 15:09:20 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/04 15:09:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/04 15:09:20 [notice] 1#1: start worker processes
+2023/08/04 15:09:20 [notice] 1#1: start worker process 29
+2023/08/04 15:26:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/04 15:26:34 [notice] 29#29: gracefully shutting down
+2023/08/04 15:26:34 [notice] 29#29: exiting
+2023/08/04 15:26:34 [notice] 29#29: exit
+2023/08/04 15:26:34 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/04 15:26:34 [notice] 1#1: worker process 29 exited with code 0
+2023/08/04 15:26:34 [notice] 1#1: exit
+2023/08/07 17:53:44 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:44 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:45 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:46 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:47 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:49 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:52 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/08/07 17:53:59 [notice] 1#1: using the "epoll" event method
+2023/08/07 17:53:59 [notice] 1#1: nginx/1.25.1
+2023/08/07 17:53:59 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/07 17:53:59 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/07 17:53:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/07 17:53:59 [notice] 1#1: start worker processes
+2023/08/07 17:53:59 [notice] 1#1: start worker process 22
+2023/08/07 17:54:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/07 17:54:10 [notice] 22#22: gracefully shutting down
+2023/08/07 17:54:10 [notice] 22#22: exiting
+2023/08/07 17:54:10 [notice] 22#22: exit
+2023/08/07 17:54:10 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/08/07 17:54:10 [notice] 1#1: worker process 22 exited with code 0
+2023/08/07 17:54:10 [notice] 1#1: exit
+2023/08/07 17:54:26 [notice] 1#1: using the "epoll" event method
+2023/08/07 17:54:26 [notice] 1#1: nginx/1.25.1
+2023/08/07 17:54:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/07 17:54:26 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/07 17:54:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/07 17:54:26 [notice] 1#1: start worker processes
+2023/08/07 17:54:26 [notice] 1#1: start worker process 22
+2023/08/07 17:56:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/07 17:56:26 [notice] 22#22: gracefully shutting down
+2023/08/07 17:56:26 [notice] 22#22: exiting
+2023/08/07 17:56:26 [notice] 22#22: exit
+2023/08/07 17:56:26 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/08/07 17:56:26 [notice] 1#1: worker process 22 exited with code 0
+2023/08/07 17:56:26 [notice] 1#1: exit
+2023/08/07 17:57:49 [notice] 1#1: using the "epoll" event method
+2023/08/07 17:57:49 [notice] 1#1: nginx/1.25.1
+2023/08/07 17:57:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/07 17:57:49 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/07 17:57:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/07 17:57:49 [notice] 1#1: start worker processes
+2023/08/07 17:57:49 [notice] 1#1: start worker process 29
+2023/08/07 17:58:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/07 17:58:28 [notice] 29#29: gracefully shutting down
+2023/08/07 17:58:28 [notice] 29#29: exiting
+2023/08/07 17:58:28 [notice] 29#29: exit
+2023/08/07 17:58:28 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/07 17:58:28 [notice] 1#1: worker process 29 exited with code 0
+2023/08/07 17:58:28 [notice] 1#1: exit
+2023/08/07 17:59:01 [notice] 1#1: using the "epoll" event method
+2023/08/07 17:59:01 [notice] 1#1: nginx/1.25.1
+2023/08/07 17:59:01 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/08/07 17:59:01 [notice] 1#1: OS: Linux 5.19.0-50-generic
+2023/08/07 17:59:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/07 17:59:01 [notice] 1#1: start worker processes
+2023/08/07 17:59:01 [notice] 1#1: start worker process 22
+2023/08/07 18:01:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/07 18:01:18 [notice] 22#22: gracefully shutting down
+2023/08/07 18:01:18 [notice] 22#22: exiting
+2023/08/07 18:01:18 [notice] 22#22: exit
+2023/08/07 18:01:18 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/08/07 18:01:18 [notice] 1#1: worker process 22 exited with code 0
+2023/08/07 18:01:18 [notice] 1#1: exit
+2023/09/02 12:15:41 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:42 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:42 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:43 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:44 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:46 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:49 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:15:56 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:16:09 [emerg] 1#1: host not found in upstream "api:5000" in /etc/nginx/nginx.conf:56
+2023/09/02 12:16:52 [notice] 1#1: using the "epoll" event method
+2023/09/02 12:16:52 [notice] 1#1: nginx/1.25.2
+2023/09/02 12:16:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/02 12:16:52 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/02 12:16:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/02 12:16:52 [notice] 1#1: start worker processes
+2023/09/02 12:16:52 [notice] 1#1: start worker process 29
+2023/09/02 12:17:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/02 12:17:29 [notice] 29#29: gracefully shutting down
+2023/09/02 12:17:29 [notice] 29#29: exiting
+2023/09/02 12:17:29 [notice] 29#29: exit
+2023/09/02 12:17:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/02 12:17:29 [notice] 1#1: worker process 29 exited with code 0
+2023/09/02 12:17:29 [notice] 1#1: exit
+2023/09/02 12:17:39 [notice] 1#1: using the "epoll" event method
+2023/09/02 12:17:39 [notice] 1#1: nginx/1.25.2
+2023/09/02 12:17:39 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/02 12:17:39 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/02 12:17:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/02 12:17:39 [notice] 1#1: start worker processes
+2023/09/02 12:17:39 [notice] 1#1: start worker process 29
+2023/09/02 12:18:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/02 12:18:05 [notice] 29#29: gracefully shutting down
+2023/09/02 12:18:09 [notice] 29#29: exiting
+2023/09/02 12:18:09 [notice] 29#29: exit
+2023/09/02 12:18:09 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/02 12:18:09 [notice] 1#1: worker process 29 exited with code 0
+2023/09/02 12:18:09 [notice] 1#1: exit
+2023/09/04 18:29:01 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:03 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:06 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:09 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:11 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:14 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:18 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:26 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/04 18:29:55 [notice] 1#1: using the "epoll" event method
+2023/09/04 18:29:55 [notice] 1#1: nginx/1.25.2
+2023/09/04 18:29:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 18:29:55 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 18:29:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 18:29:55 [notice] 1#1: start worker processes
+2023/09/04 18:29:55 [notice] 1#1: start worker process 29
+2023/09/04 18:35:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 18:35:35 [notice] 29#29: gracefully shutting down
+2023/09/04 18:35:35 [notice] 29#29: exiting
+2023/09/04 18:35:35 [notice] 29#29: exit
+2023/09/04 18:35:35 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 18:35:35 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 18:35:35 [notice] 1#1: exit
+2023/09/04 18:42:09 [notice] 1#1: using the "epoll" event method
+2023/09/04 18:42:09 [notice] 1#1: nginx/1.25.2
+2023/09/04 18:42:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 18:42:09 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 18:42:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 18:42:09 [notice] 1#1: start worker processes
+2023/09/04 18:42:09 [notice] 1#1: start worker process 29
+2023/09/04 18:43:18 [error] 29#29: *3 open() "/usr/share/nginx/html/login" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 18:49:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 18:49:12 [notice] 29#29: gracefully shutting down
+2023/09/04 18:49:12 [notice] 29#29: exiting
+2023/09/04 18:49:12 [notice] 29#29: exit
+2023/09/04 18:49:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 18:49:12 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 18:49:12 [notice] 1#1: exit
+2023/09/04 18:50:10 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:13 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:16 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:19 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:22 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:24 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:29 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:37 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:50:51 [emerg] 1#1: "upstream" directive is not allowed here in /etc/nginx/nginx.conf:54
+2023/09/04 18:51:32 [notice] 1#1: using the "epoll" event method
+2023/09/04 18:51:32 [notice] 1#1: nginx/1.25.2
+2023/09/04 18:51:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 18:51:32 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 18:51:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 18:51:32 [notice] 1#1: start worker processes
+2023/09/04 18:51:32 [notice] 1#1: start worker process 29
+2023/09/04 18:51:54 [error] 29#29: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /api/users/me HTTP/1.1", upstream: "http://127.0.0.1:8000/api/users/me", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/login"
+2023/09/04 18:58:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 18:58:01 [notice] 29#29: gracefully shutting down
+2023/09/04 18:58:01 [notice] 29#29: exiting
+2023/09/04 18:58:01 [notice] 29#29: exit
+2023/09/04 18:58:01 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 18:58:01 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 18:58:01 [notice] 1#1: exit
+2023/09/04 18:58:27 [notice] 1#1: using the "epoll" event method
+2023/09/04 18:58:27 [notice] 1#1: nginx/1.25.2
+2023/09/04 18:58:27 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 18:58:27 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 18:58:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 18:58:27 [notice] 1#1: start worker processes
+2023/09/04 18:58:27 [notice] 1#1: start worker process 29
+2023/09/04 18:58:58 [error] 29#29: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /api/users/me HTTP/1.1", upstream: "http://0.0.0.0:8000/api/users/me", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/login"
+2023/09/04 18:59:03 [error] 29#29: *2 open() "/usr/share/nginx/html/login" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 18:59:06 [error] 29#29: *2 open() "/usr/share/nginx/html/login" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 18:59:14 [error] 29#29: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /api/users/me HTTP/1.1", upstream: "http://0.0.0.0:8000/api/users/me", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/login"
+2023/09/04 19:00:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:00:51 [notice] 29#29: gracefully shutting down
+2023/09/04 19:00:51 [notice] 29#29: exiting
+2023/09/04 19:00:51 [notice] 29#29: exit
+2023/09/04 19:00:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:00:51 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:00:51 [notice] 1#1: exit
+2023/09/04 19:01:21 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:01:21 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:01:21 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:01:21 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:01:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:01:21 [notice] 1#1: start worker processes
+2023/09/04 19:01:21 [notice] 1#1: start worker process 29
+2023/09/04 19:01:33 [error] 29#29: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /api/users/me HTTP/1.1", upstream: "http://0.0.0.0:8000/api/users/me", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/login"
+2023/09/04 19:04:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:04:10 [notice] 29#29: gracefully shutting down
+2023/09/04 19:04:10 [notice] 29#29: exiting
+2023/09/04 19:04:10 [notice] 29#29: exit
+2023/09/04 19:04:11 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:04:11 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:04:11 [notice] 1#1: exit
+2023/09/04 19:04:37 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:04:37 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:04:37 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:04:37 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:04:37 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:04:37 [notice] 1#1: start worker processes
+2023/09/04 19:04:37 [notice] 1#1: start worker process 29
+2023/09/04 19:08:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:08:49 [notice] 29#29: gracefully shutting down
+2023/09/04 19:08:49 [notice] 29#29: exiting
+2023/09/04 19:08:49 [notice] 29#29: exit
+2023/09/04 19:08:49 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:08:49 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:08:49 [notice] 1#1: exit
+2023/09/04 19:09:15 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:09:15 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:09:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:09:15 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:09:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:09:15 [notice] 1#1: start worker processes
+2023/09/04 19:09:15 [notice] 1#1: start worker process 29
+2023/09/04 19:13:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:13:32 [notice] 29#29: gracefully shutting down
+2023/09/04 19:13:32 [notice] 29#29: exiting
+2023/09/04 19:13:32 [notice] 29#29: exit
+2023/09/04 19:13:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:13:32 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:13:32 [notice] 1#1: exit
+2023/09/04 19:13:59 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:13:59 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:13:59 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:13:59 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:13:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:13:59 [notice] 1#1: start worker processes
+2023/09/04 19:13:59 [notice] 1#1: start worker process 29
+2023/09/04 19:14:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:14:38 [notice] 29#29: gracefully shutting down
+2023/09/04 19:14:38 [notice] 29#29: exiting
+2023/09/04 19:14:38 [notice] 29#29: exit
+2023/09/04 19:14:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:14:38 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:14:38 [notice] 1#1: exit
+2023/09/04 19:15:05 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:15:05 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:15:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:15:05 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:15:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:15:05 [notice] 1#1: start worker processes
+2023/09/04 19:15:05 [notice] 1#1: start worker process 29
+2023/09/04 19:15:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:15:25 [notice] 29#29: gracefully shutting down
+2023/09/04 19:15:25 [notice] 29#29: exiting
+2023/09/04 19:15:25 [notice] 29#29: exit
+2023/09/04 19:15:25 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:15:25 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:15:25 [notice] 1#1: exit
+2023/09/04 19:15:49 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:15:49 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:15:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:15:49 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:15:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:15:49 [notice] 1#1: start worker processes
+2023/09/04 19:15:49 [notice] 1#1: start worker process 29
+2023/09/04 19:15:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:15:54 [notice] 29#29: gracefully shutting down
+2023/09/04 19:15:54 [notice] 29#29: exiting
+2023/09/04 19:15:54 [notice] 29#29: exit
+2023/09/04 19:15:54 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:15:54 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:15:54 [notice] 1#1: exit
+2023/09/04 19:16:20 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:16:20 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:16:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:16:20 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:16:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:16:20 [notice] 1#1: start worker processes
+2023/09/04 19:16:20 [notice] 1#1: start worker process 29
+2023/09/04 19:22:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:22:29 [notice] 29#29: gracefully shutting down
+2023/09/04 19:22:29 [notice] 29#29: exiting
+2023/09/04 19:22:29 [notice] 29#29: exit
+2023/09/04 19:22:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:22:29 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:22:29 [notice] 1#1: exit
+2023/09/04 19:23:00 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:23:00 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:23:00 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:23:00 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:23:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:23:00 [notice] 1#1: start worker processes
+2023/09/04 19:23:00 [notice] 1#1: start worker process 29
+2023/09/04 19:23:07 [error] 29#29: *1 open() "/usr/share/nginx/html/static/index.html" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /index.html HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 19:23:07 [error] 29#29: *1 open() "/usr/share/nginx/html/static/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/04 19:26:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:26:05 [notice] 29#29: gracefully shutting down
+2023/09/04 19:26:05 [notice] 29#29: exiting
+2023/09/04 19:26:05 [notice] 29#29: exit
+2023/09/04 19:26:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:26:05 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:26:05 [notice] 1#1: exit
+2023/09/04 19:26:33 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:26:33 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:26:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:26:33 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:26:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:26:33 [notice] 1#1: start worker processes
+2023/09/04 19:26:33 [notice] 1#1: start worker process 29
+2023/09/04 19:31:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:31:44 [notice] 29#29: gracefully shutting down
+2023/09/04 19:31:44 [notice] 29#29: exiting
+2023/09/04 19:31:44 [notice] 29#29: exit
+2023/09/04 19:31:44 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:31:44 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:31:44 [notice] 1#1: exit
+2023/09/04 19:32:08 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:32:08 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:32:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:32:08 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:32:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:32:08 [notice] 1#1: start worker processes
+2023/09/04 19:32:08 [notice] 1#1: start worker process 29
+2023/09/04 19:35:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:35:37 [notice] 29#29: gracefully shutting down
+2023/09/04 19:35:37 [notice] 29#29: exiting
+2023/09/04 19:35:37 [notice] 29#29: exit
+2023/09/04 19:35:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:35:37 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:35:37 [notice] 1#1: exit
+2023/09/04 19:36:02 [notice] 1#1: using the "epoll" event method
+2023/09/04 19:36:02 [notice] 1#1: nginx/1.25.2
+2023/09/04 19:36:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 19:36:02 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 19:36:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 19:36:02 [notice] 1#1: start worker processes
+2023/09/04 19:36:02 [notice] 1#1: start worker process 29
+2023/09/04 19:37:11 [error] 29#29: *4 open() "/usr/share/nginx/html/static/users/1" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /users/1 HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 19:43:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 19:43:29 [notice] 29#29: gracefully shutting down
+2023/09/04 19:43:29 [notice] 29#29: exiting
+2023/09/04 19:43:29 [notice] 29#29: exit
+2023/09/04 19:43:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/04 19:43:29 [notice] 1#1: worker process 29 exited with code 0
+2023/09/04 19:43:29 [notice] 1#1: exit
+2023/09/04 20:34:42 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:34:45 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:34:48 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:34:51 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:34:54 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:34:56 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:35:01 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:35:08 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:35:22 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:35:48 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:36:41 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:37:56 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:37:59 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:38:01 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:38:04 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:38:07 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/04 20:38:58 [notice] 1#1: using the "epoll" event method
+2023/09/04 20:38:58 [notice] 1#1: nginx/1.25.2
+2023/09/04 20:38:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 20:38:58 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 20:38:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 20:38:58 [notice] 1#1: start worker processes
+2023/09/04 20:38:58 [notice] 1#1: start worker process 30
+2023/09/04 20:48:53 [error] 30#30: *5 open() "/usr/share/nginx/html/static/login" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 20:49:07 [error] 30#30: *6 open() "/usr/share/nginx/html/static/login" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", host: "0.0.0.0:81"
+2023/09/04 21:07:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/04 21:07:24 [notice] 30#30: gracefully shutting down
+2023/09/04 21:07:24 [notice] 30#30: exiting
+2023/09/04 21:07:24 [notice] 30#30: exit
+2023/09/04 21:07:24 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/09/04 21:07:24 [notice] 1#1: worker process 30 exited with code 0
+2023/09/04 21:07:24 [notice] 1#1: exit
+2023/09/04 21:07:53 [notice] 1#1: using the "epoll" event method
+2023/09/04 21:07:53 [notice] 1#1: nginx/1.25.2
+2023/09/04 21:07:53 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/04 21:07:53 [notice] 1#1: OS: Linux 6.2.0-31-generic
+2023/09/04 21:07:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/04 21:07:53 [notice] 1#1: start worker processes
+2023/09/04 21:07:53 [notice] 1#1: start worker process 29
+2023/09/05 20:40:26 [notice] 1#1: using the "epoll" event method
+2023/09/05 20:40:26 [notice] 1#1: nginx/1.25.2
+2023/09/05 20:40:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/05 20:40:26 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/05 20:40:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/05 20:40:26 [notice] 1#1: start worker processes
+2023/09/05 20:40:26 [notice] 1#1: start worker process 29
+2023/09/05 20:40:36 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/05 20:40:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/05 20:40:43 [notice] 29#29: gracefully shutting down
+2023/09/05 20:40:43 [notice] 29#29: exiting
+2023/09/05 20:40:43 [notice] 29#29: exit
+2023/09/05 20:40:43 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/05 20:40:43 [notice] 1#1: worker process 29 exited with code 0
+2023/09/05 20:40:43 [notice] 1#1: exit
+2023/09/06 11:50:33 [notice] 1#1: using the "epoll" event method
+2023/09/06 11:50:33 [notice] 1#1: nginx/1.25.2
+2023/09/06 11:50:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 11:50:33 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 11:50:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 11:50:33 [notice] 1#1: start worker processes
+2023/09/06 11:50:33 [notice] 1#1: start worker process 29
+2023/09/06 11:51:05 [warn] 29#29: *9 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 12:09:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:09:18 [notice] 29#29: gracefully shutting down
+2023/09/06 12:09:18 [notice] 29#29: exiting
+2023/09/06 12:09:18 [notice] 29#29: exit
+2023/09/06 12:09:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:09:18 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:09:18 [notice] 1#1: exit
+2023/09/06 12:09:56 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:09:56 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:09:56 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:09:56 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:09:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:09:56 [notice] 1#1: start worker processes
+2023/09/06 12:09:56 [notice] 1#1: start worker process 29
+2023/09/06 12:12:24 [warn] 29#29: *6 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 12:18:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:18:12 [notice] 29#29: gracefully shutting down
+2023/09/06 12:18:12 [notice] 29#29: exiting
+2023/09/06 12:18:12 [notice] 29#29: exit
+2023/09/06 12:18:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:18:12 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:18:12 [notice] 1#1: exit
+2023/09/06 12:21:08 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:21:08 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:21:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:21:08 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:21:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:21:08 [notice] 1#1: start worker processes
+2023/09/06 12:21:08 [notice] 1#1: start worker process 29
+2023/09/06 12:21:55 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 12:23:27 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:23:27 [notice] 29#29: gracefully shutting down
+2023/09/06 12:23:27 [notice] 29#29: exiting
+2023/09/06 12:23:27 [notice] 29#29: exit
+2023/09/06 12:23:27 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:23:27 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:23:27 [notice] 1#1: exit
+2023/09/06 12:23:56 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:23:56 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:23:56 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:23:56 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:23:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:23:56 [notice] 1#1: start worker processes
+2023/09/06 12:23:56 [notice] 1#1: start worker process 29
+2023/09/06 12:26:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:26:59 [notice] 29#29: gracefully shutting down
+2023/09/06 12:26:59 [notice] 29#29: exiting
+2023/09/06 12:26:59 [notice] 29#29: exit
+2023/09/06 12:26:59 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:26:59 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:26:59 [notice] 1#1: exit
+2023/09/06 12:27:24 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:27:24 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:27:24 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:27:24 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:27:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:27:24 [notice] 1#1: start worker processes
+2023/09/06 12:27:24 [notice] 1#1: start worker process 29
+2023/09/06 12:29:11 [warn] 29#29: *9 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 12:29:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:29:36 [notice] 29#29: gracefully shutting down
+2023/09/06 12:29:36 [notice] 29#29: exiting
+2023/09/06 12:29:36 [notice] 29#29: exit
+2023/09/06 12:29:36 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:29:36 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:29:36 [notice] 1#1: exit
+2023/09/06 12:30:42 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:30:42 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:30:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:30:42 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:30:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:30:42 [notice] 1#1: start worker processes
+2023/09/06 12:30:42 [notice] 1#1: start worker process 29
+2023/09/06 12:45:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:45:49 [notice] 29#29: gracefully shutting down
+2023/09/06 12:45:49 [notice] 29#29: exiting
+2023/09/06 12:45:49 [notice] 29#29: exit
+2023/09/06 12:45:49 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:45:49 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:45:49 [notice] 1#1: exit
+2023/09/06 12:49:50 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:49:50 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:49:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:49:50 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:49:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:49:50 [notice] 1#1: start worker processes
+2023/09/06 12:49:50 [notice] 1#1: start worker process 29
+2023/09/06 12:54:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:54:43 [notice] 29#29: gracefully shutting down
+2023/09/06 12:54:43 [notice] 29#29: exiting
+2023/09/06 12:54:43 [notice] 29#29: exit
+2023/09/06 12:54:43 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:54:43 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:54:43 [notice] 1#1: exit
+2023/09/06 12:55:10 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:55:10 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:55:10 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:55:10 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:55:10 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:55:10 [notice] 1#1: start worker processes
+2023/09/06 12:55:10 [notice] 1#1: start worker process 29
+2023/09/06 12:57:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 12:57:23 [notice] 29#29: gracefully shutting down
+2023/09/06 12:57:23 [notice] 29#29: exiting
+2023/09/06 12:57:23 [notice] 29#29: exit
+2023/09/06 12:57:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 12:57:23 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 12:57:23 [notice] 1#1: exit
+2023/09/06 12:57:50 [notice] 1#1: using the "epoll" event method
+2023/09/06 12:57:50 [notice] 1#1: nginx/1.25.2
+2023/09/06 12:57:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 12:57:50 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 12:57:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 12:57:50 [notice] 1#1: start worker processes
+2023/09/06 12:57:50 [notice] 1#1: start worker process 29
+2023/09/06 13:02:48 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:02:48 [notice] 29#29: gracefully shutting down
+2023/09/06 13:02:48 [notice] 29#29: exiting
+2023/09/06 13:02:48 [notice] 29#29: exit
+2023/09/06 13:02:48 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:02:48 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:02:48 [notice] 1#1: exit
+2023/09/06 13:03:12 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:03:12 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:03:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:03:12 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:03:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:03:12 [notice] 1#1: start worker processes
+2023/09/06 13:03:12 [notice] 1#1: start worker process 29
+2023/09/06 13:05:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:05:15 [notice] 29#29: gracefully shutting down
+2023/09/06 13:05:15 [notice] 29#29: exiting
+2023/09/06 13:05:15 [notice] 29#29: exit
+2023/09/06 13:05:15 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:05:15 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:05:15 [notice] 1#1: exit
+2023/09/06 13:05:43 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:05:43 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:05:43 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:05:43 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:05:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:05:43 [notice] 1#1: start worker processes
+2023/09/06 13:05:43 [notice] 1#1: start worker process 29
+2023/09/06 13:14:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:14:38 [notice] 29#29: gracefully shutting down
+2023/09/06 13:14:38 [notice] 29#29: exiting
+2023/09/06 13:14:38 [notice] 29#29: exit
+2023/09/06 13:14:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:14:38 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:14:38 [notice] 1#1: exit
+2023/09/06 13:15:05 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:15:05 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:15:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:15:05 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:15:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:15:05 [notice] 1#1: start worker processes
+2023/09/06 13:15:05 [notice] 1#1: start worker process 29
+2023/09/06 13:19:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:19:42 [notice] 29#29: gracefully shutting down
+2023/09/06 13:19:42 [notice] 29#29: exiting
+2023/09/06 13:19:42 [notice] 29#29: exit
+2023/09/06 13:19:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:19:42 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:19:42 [notice] 1#1: exit
+2023/09/06 13:20:07 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:20:07 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:20:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:20:07 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:20:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:20:07 [notice] 1#1: start worker processes
+2023/09/06 13:20:07 [notice] 1#1: start worker process 29
+2023/09/06 13:20:47 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:20:47 [notice] 29#29: gracefully shutting down
+2023/09/06 13:20:47 [notice] 29#29: exiting
+2023/09/06 13:20:47 [notice] 29#29: exit
+2023/09/06 13:20:48 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:20:48 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:20:48 [notice] 1#1: exit
+2023/09/06 13:21:14 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:21:14 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:21:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:21:14 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:21:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:21:14 [notice] 1#1: start worker processes
+2023/09/06 13:21:14 [notice] 1#1: start worker process 29
+2023/09/06 13:23:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:23:18 [notice] 29#29: gracefully shutting down
+2023/09/06 13:23:18 [notice] 29#29: exiting
+2023/09/06 13:23:18 [notice] 29#29: exit
+2023/09/06 13:23:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:23:18 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:23:18 [notice] 1#1: exit
+2023/09/06 13:23:43 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:23:43 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:23:43 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:23:43 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:23:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:23:43 [notice] 1#1: start worker processes
+2023/09/06 13:23:43 [notice] 1#1: start worker process 29
+2023/09/06 13:25:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:25:00 [notice] 29#29: gracefully shutting down
+2023/09/06 13:25:00 [notice] 29#29: exiting
+2023/09/06 13:25:00 [notice] 29#29: exit
+2023/09/06 13:25:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:25:00 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:25:00 [notice] 1#1: exit
+2023/09/06 13:25:35 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:25:35 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:25:35 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:25:35 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:25:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:25:35 [notice] 1#1: start worker processes
+2023/09/06 13:25:35 [notice] 1#1: start worker process 29
+2023/09/06 13:29:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:29:54 [notice] 29#29: gracefully shutting down
+2023/09/06 13:29:54 [notice] 29#29: exiting
+2023/09/06 13:29:54 [notice] 29#29: exit
+2023/09/06 13:29:55 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:29:55 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:29:55 [notice] 1#1: exit
+2023/09/06 13:30:21 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:30:21 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:30:21 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:30:21 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:30:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:30:21 [notice] 1#1: start worker processes
+2023/09/06 13:30:21 [notice] 1#1: start worker process 29
+2023/09/06 13:30:24 [error] 29#29: *6 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-09-05 23-28-51.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-05%2023-28-51.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:30:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:30:40 [notice] 29#29: gracefully shutting down
+2023/09/06 13:30:40 [notice] 29#29: exiting
+2023/09/06 13:30:40 [notice] 29#29: exit
+2023/09/06 13:30:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:30:40 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:30:40 [notice] 1#1: exit
+2023/09/06 13:31:30 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:31:30 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:31:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:31:30 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:31:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:31:30 [notice] 1#1: start worker processes
+2023/09/06 13:31:30 [notice] 1#1: start worker process 29
+2023/09/06 13:31:52 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:31:52 [error] 29#29: *1 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-09-05 23-28-51.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-05%2023-28-51.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:31:53 [error] 29#29: *1 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-09-05 23-28-51.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-05%2023-28-51.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:32:23 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:32:23 [error] 29#29: *1 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-09-05 23-28-51.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-05%2023-28-51.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:32:49 [error] 29#29: *1 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:33:34 [warn] 29#29: *24 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:33:34 [error] 29#29: *24 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:35:04 [warn] 29#29: *31 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:35:04 [warn] 29#29: *33 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:35:04 [error] 29#29: *33 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:35:07 [error] 29#29: *33 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:38:20 [error] 29#29: *37 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:39:09 [error] 29#29: *38 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:40:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:40:21 [notice] 29#29: gracefully shutting down
+2023/09/06 13:40:21 [notice] 29#29: exiting
+2023/09/06 13:40:21 [notice] 29#29: exit
+2023/09/06 13:40:21 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:40:21 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:40:21 [notice] 1#1: exit
+2023/09/06 13:40:50 [notice] 1#1: using the "epoll" event method
+2023/09/06 13:40:50 [notice] 1#1: nginx/1.25.2
+2023/09/06 13:40:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 13:40:50 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 13:40:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 13:40:50 [notice] 1#1: start worker processes
+2023/09/06 13:40:50 [notice] 1#1: start worker process 29
+2023/09/06 13:40:52 [error] 29#29: *2 open() "/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:52 [error] 29#29: *2 open() "/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:52 [error] 29#29: *1 open() "/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:52 [error] 29#29: *4 open() "/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:52 [error] 29#29: *2 open() "/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:52 [error] 29#29: *2 open() "/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:52 [error] 29#29: *4 open() "/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:40:58 [error] 29#29: *4 open() "/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:58 [error] 29#29: *2 open() "/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:58 [error] 29#29: *2 open() "/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:58 [error] 29#29: *4 open() "/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:58 [error] 29#29: *2 open() "/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:58 [error] 29#29: *2 open() "/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:40:58 [error] 29#29: *2 open() "/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:41:52 [warn] 29#29: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:41:52 [error] 29#29: *2 open() "/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:42:01 [error] 29#29: *2 open() "/Снимок экрана от 2023-09-05 23-28-51.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-05%2023-28-51.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:42:02 [error] 29#29: *2 open() "/Снимок экрана от 2023-08-09 23-46-36.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-09%2023-46-36.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:42:03 [error] 29#29: *2 open() "/Снимок экрана от 2023-09-03 22-58-57.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-03%2022-58-57.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:42:43 [warn] 29#29: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:42:43 [error] 29#29: *2 open() "/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:43:18 [error] 29#29: *2 open() "/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *2 open() "/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *24 open() "/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *24 open() "/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *24 open() "/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *24 open() "/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *24 open() "/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 13:43:21 [error] 29#29: *24 open() "/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 13:53:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 13:53:50 [notice] 29#29: gracefully shutting down
+2023/09/06 13:53:50 [notice] 29#29: exiting
+2023/09/06 13:53:50 [notice] 29#29: exit
+2023/09/06 13:53:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 13:53:50 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 13:53:50 [notice] 1#1: exit
+2023/09/06 14:03:02 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:05 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:08 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:11 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:13 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:16 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:20 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:28 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:03:42 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:04:08 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:05:01 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:06:02 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:29 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:31 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:34 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:37 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:39 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:42 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:11:46 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:12:07 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:12:09 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:12:13 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:12:48 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:12:48 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:12:48 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:12:48 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:12:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:12:48 [notice] 1#1: start worker processes
+2023/09/06 14:12:48 [notice] 1#1: start worker process 29
+2023/09/06 14:12:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:12:52 [notice] 29#29: gracefully shutting down
+2023/09/06 14:12:52 [notice] 29#29: exiting
+2023/09/06 14:12:52 [notice] 29#29: exit
+2023/09/06 14:12:52 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 14:12:52 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 14:12:52 [notice] 1#1: exit
+2023/09/06 14:13:03 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:13:03 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:13:03 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:13:03 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:13:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:13:03 [notice] 1#1: start worker processes
+2023/09/06 14:13:03 [notice] 1#1: start worker process 22
+2023/09/06 14:15:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:15:03 [notice] 22#22: gracefully shutting down
+2023/09/06 14:15:03 [notice] 22#22: exiting
+2023/09/06 14:15:03 [notice] 22#22: exit
+2023/09/06 14:15:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:15:03 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:15:03 [notice] 1#1: exit
+2023/09/06 14:15:29 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:15:29 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:15:29 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:15:29 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:15:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:15:29 [notice] 1#1: start worker processes
+2023/09/06 14:15:29 [notice] 1#1: start worker process 29
+2023/09/06 14:16:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:16:17 [notice] 29#29: gracefully shutting down
+2023/09/06 14:16:17 [notice] 29#29: exiting
+2023/09/06 14:16:17 [notice] 29#29: exit
+2023/09/06 14:16:17 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 14:16:17 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 14:16:17 [notice] 1#1: exit
+2023/09/06 14:16:38 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:16:38 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:16:38 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:16:38 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:16:38 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:16:38 [notice] 1#1: start worker processes
+2023/09/06 14:16:38 [notice] 1#1: start worker process 29
+2023/09/06 14:16:53 [warn] 29#29: *5 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:16:53 [error] 29#29: *5 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-08-31 01-38-14.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-31%2001-38-14.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:21:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:21:26 [notice] 29#29: gracefully shutting down
+2023/09/06 14:21:26 [notice] 29#29: exiting
+2023/09/06 14:21:26 [notice] 29#29: exit
+2023/09/06 14:21:26 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 14:21:26 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 14:21:26 [notice] 1#1: exit
+2023/09/06 14:21:49 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:21:49 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:21:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:21:49 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:21:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:21:49 [notice] 1#1: start worker processes
+2023/09/06 14:21:49 [notice] 1#1: start worker process 29
+2023/09/06 14:23:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:23:51 [notice] 29#29: gracefully shutting down
+2023/09/06 14:23:51 [notice] 29#29: exiting
+2023/09/06 14:23:51 [notice] 29#29: exit
+2023/09/06 14:23:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 14:23:51 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 14:23:51 [notice] 1#1: exit
+2023/09/06 14:26:23 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:26:23 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:26:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:26:23 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:26:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:26:23 [notice] 1#1: start worker processes
+2023/09/06 14:26:23 [notice] 1#1: start worker process 29
+2023/09/06 14:27:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:27:02 [notice] 29#29: gracefully shutting down
+2023/09/06 14:27:02 [notice] 29#29: exiting
+2023/09/06 14:27:02 [notice] 29#29: exit
+2023/09/06 14:27:02 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 14:27:02 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 14:27:02 [notice] 1#1: exit
+2023/09/06 14:27:08 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:27:13 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:27:13 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:27:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:27:13 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:27:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:27:13 [notice] 1#1: start worker processes
+2023/09/06 14:27:13 [notice] 1#1: start worker process 22
+2023/09/06 14:27:59 [error] 22#22: *2 open() "/usr/share/nginx/html/static/login" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 14:33:53 [warn] 22#22: *12 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:33:53 [error] 22#22: *12 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-08-31 01-38-14.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-31%2001-38-14.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:44:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:44:23 [notice] 22#22: gracefully shutting down
+2023/09/06 14:44:23 [notice] 22#22: exiting
+2023/09/06 14:44:23 [notice] 22#22: exit
+2023/09/06 14:44:23 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:44:23 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:44:23 [notice] 1#1: exit
+2023/09/06 14:46:11 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:46:15 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:46:15 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:46:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:46:15 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:46:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:46:15 [notice] 1#1: start worker processes
+2023/09/06 14:46:15 [notice] 1#1: start worker process 22
+2023/09/06 14:46:21 [error] 22#22: *2 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-08-31 01-38-14.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-31%2001-38-14.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:46:55 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:46:55 [error] 22#22: *2 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-08-31 01-39-25.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-31%2001-39-25.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 14:50:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:50:20 [notice] 22#22: gracefully shutting down
+2023/09/06 14:50:20 [notice] 22#22: exiting
+2023/09/06 14:50:20 [notice] 22#22: exit
+2023/09/06 14:50:20 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:50:20 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:50:20 [notice] 1#1: exit
+2023/09/06 14:51:49 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:51:53 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:51:53 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:51:53 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:51:53 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:51:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:51:53 [notice] 1#1: start worker processes
+2023/09/06 14:51:53 [notice] 1#1: start worker process 22
+2023/09/06 14:53:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:53:53 [notice] 22#22: gracefully shutting down
+2023/09/06 14:53:53 [notice] 22#22: exiting
+2023/09/06 14:53:53 [notice] 22#22: exit
+2023/09/06 14:53:53 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:53:53 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:53:53 [notice] 1#1: exit
+2023/09/06 14:55:14 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:55:19 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:55:19 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:55:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:55:19 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:55:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:55:19 [notice] 1#1: start worker processes
+2023/09/06 14:55:19 [notice] 1#1: start worker process 22
+2023/09/06 14:57:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:57:03 [notice] 22#22: gracefully shutting down
+2023/09/06 14:57:03 [notice] 22#22: exiting
+2023/09/06 14:57:03 [notice] 22#22: exit
+2023/09/06 14:57:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:57:03 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:57:03 [notice] 1#1: exit
+2023/09/06 14:57:26 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:57:30 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:57:30 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:57:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:57:30 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:57:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:57:30 [notice] 1#1: start worker processes
+2023/09/06 14:57:30 [notice] 1#1: start worker process 22
+2023/09/06 14:58:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:58:10 [notice] 22#22: gracefully shutting down
+2023/09/06 14:58:10 [notice] 22#22: exiting
+2023/09/06 14:58:10 [notice] 22#22: exit
+2023/09/06 14:58:10 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:58:10 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:58:10 [notice] 1#1: exit
+2023/09/06 14:58:29 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:58:35 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:58:35 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:58:35 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:58:35 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:58:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:58:35 [notice] 1#1: start worker processes
+2023/09/06 14:58:35 [notice] 1#1: start worker process 22
+2023/09/06 14:59:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 14:59:34 [notice] 22#22: gracefully shutting down
+2023/09/06 14:59:34 [notice] 22#22: exiting
+2023/09/06 14:59:34 [notice] 22#22: exit
+2023/09/06 14:59:34 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 14:59:34 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 14:59:34 [notice] 1#1: exit
+2023/09/06 14:59:46 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 14:59:50 [notice] 1#1: using the "epoll" event method
+2023/09/06 14:59:50 [notice] 1#1: nginx/1.25.2
+2023/09/06 14:59:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 14:59:50 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 14:59:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 14:59:50 [notice] 1#1: start worker processes
+2023/09/06 14:59:50 [notice] 1#1: start worker process 22
+2023/09/06 15:01:38 [error] 22#22: *1 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-08-31 01-39-25.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-31%2001-39-25.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:01:47 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:01:48 [error] 22#22: *2 open() "/usr/share/nginx/html/static/Снимок экрана от 2023-08-31 01-38-14.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-31%2001-38-14.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:11:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:11:24 [notice] 22#22: gracefully shutting down
+2023/09/06 15:11:24 [notice] 22#22: exiting
+2023/09/06 15:11:24 [notice] 22#22: exit
+2023/09/06 15:11:24 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:11:24 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:11:24 [notice] 1#1: exit
+2023/09/06 15:19:10 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:19:10 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:19:10 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:19:10 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:19:10 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:19:10 [notice] 1#1: start worker processes
+2023/09/06 15:19:10 [notice] 1#1: start worker process 29
+2023/09/06 15:19:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:19:12 [notice] 29#29: gracefully shutting down
+2023/09/06 15:19:12 [notice] 29#29: exiting
+2023/09/06 15:19:12 [notice] 29#29: exit
+2023/09/06 15:19:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 15:19:12 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 15:19:12 [notice] 1#1: exit
+2023/09/06 15:21:45 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:21:51 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:21:51 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:21:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:21:51 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:21:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:21:51 [notice] 1#1: start worker processes
+2023/09/06 15:21:51 [notice] 1#1: start worker process 22
+2023/09/06 15:22:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:22:03 [notice] 22#22: gracefully shutting down
+2023/09/06 15:22:03 [notice] 22#22: exiting
+2023/09/06 15:22:03 [notice] 22#22: exit
+2023/09/06 15:22:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:22:03 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:22:03 [notice] 1#1: exit
+2023/09/06 15:22:09 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:22:14 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:22:14 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:22:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:22:14 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:22:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:22:14 [notice] 1#1: start worker processes
+2023/09/06 15:22:14 [notice] 1#1: start worker process 22
+2023/09/06 15:22:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:22:50 [notice] 22#22: gracefully shutting down
+2023/09/06 15:22:50 [notice] 22#22: exiting
+2023/09/06 15:22:50 [notice] 22#22: exit
+2023/09/06 15:22:50 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:22:50 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:22:50 [notice] 1#1: exit
+2023/09/06 15:23:01 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:23:05 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:23:05 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:23:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:23:05 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:23:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:23:05 [notice] 1#1: start worker processes
+2023/09/06 15:23:05 [notice] 1#1: start worker process 23
+2023/09/06 15:23:30 [warn] 23#23: *3 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:23:31 [error] 23#23: *3 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:23:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:23:39 [notice] 23#23: gracefully shutting down
+2023/09/06 15:23:39 [notice] 23#23: exiting
+2023/09/06 15:23:39 [notice] 23#23: exit
+2023/09/06 15:23:39 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/09/06 15:23:39 [notice] 1#1: worker process 23 exited with code 0
+2023/09/06 15:23:39 [notice] 1#1: exit
+2023/09/06 15:24:47 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:24:52 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:24:52 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:24:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:24:52 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:24:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:24:52 [notice] 1#1: start worker processes
+2023/09/06 15:24:52 [notice] 1#1: start worker process 22
+2023/09/06 15:26:47 [warn] 22#22: *6 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:27:00 [warn] 22#22: *6 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:29:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:29:53 [notice] 22#22: gracefully shutting down
+2023/09/06 15:29:53 [notice] 22#22: exiting
+2023/09/06 15:29:53 [notice] 22#22: exit
+2023/09/06 15:29:53 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:29:53 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:29:53 [notice] 1#1: exit
+2023/09/06 15:31:35 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:31:40 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:31:40 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:31:40 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:31:40 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:31:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:31:40 [notice] 1#1: start worker processes
+2023/09/06 15:31:40 [notice] 1#1: start worker process 22
+2023/09/06 15:32:25 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:34:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:34:32 [notice] 22#22: gracefully shutting down
+2023/09/06 15:34:32 [notice] 22#22: exiting
+2023/09/06 15:34:32 [notice] 22#22: exit
+2023/09/06 15:34:33 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:34:33 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:34:33 [notice] 1#1: exit
+2023/09/06 15:34:52 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:34:56 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:34:56 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:34:56 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:34:56 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:34:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:34:56 [notice] 1#1: start worker processes
+2023/09/06 15:34:56 [notice] 1#1: start worker process 22
+2023/09/06 15:35:05 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:35:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:35:37 [notice] 22#22: gracefully shutting down
+2023/09/06 15:35:37 [notice] 22#22: exiting
+2023/09/06 15:35:37 [notice] 22#22: exit
+2023/09/06 15:35:37 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:35:37 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:35:37 [notice] 1#1: exit
+2023/09/06 15:35:51 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:35:55 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:35:55 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:35:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:35:55 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:35:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:35:55 [notice] 1#1: start worker processes
+2023/09/06 15:35:55 [notice] 1#1: start worker process 22
+2023/09/06 15:36:13 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:36:13 [error] 22#22: *2 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:38:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:38:40 [notice] 22#22: gracefully shutting down
+2023/09/06 15:38:40 [notice] 22#22: exiting
+2023/09/06 15:38:40 [notice] 22#22: exit
+2023/09/06 15:38:40 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:38:40 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:38:40 [notice] 1#1: exit
+2023/09/06 15:38:48 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:38:52 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:38:52 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:38:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:38:52 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:38:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:38:52 [notice] 1#1: start worker processes
+2023/09/06 15:38:52 [notice] 1#1: start worker process 22
+2023/09/06 15:39:14 [error] 22#22: *1 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:40:16 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:40:16 [error] 22#22: *2 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:44:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:44:59 [notice] 22#22: gracefully shutting down
+2023/09/06 15:44:59 [notice] 22#22: exiting
+2023/09/06 15:44:59 [notice] 22#22: exit
+2023/09/06 15:44:59 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:44:59 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:44:59 [notice] 1#1: exit
+2023/09/06 15:45:08 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:45:13 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:45:13 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:45:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:45:13 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:45:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:45:13 [notice] 1#1: start worker processes
+2023/09/06 15:45:13 [notice] 1#1: start worker process 22
+2023/09/06 15:45:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:45:38 [notice] 22#22: gracefully shutting down
+2023/09/06 15:45:38 [notice] 22#22: exiting
+2023/09/06 15:45:38 [notice] 22#22: exit
+2023/09/06 15:45:38 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 15:45:38 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 15:45:38 [notice] 1#1: exit
+2023/09/06 15:45:46 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 15:45:50 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:45:50 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:45:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:45:50 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:45:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:45:50 [notice] 1#1: start worker processes
+2023/09/06 15:45:50 [notice] 1#1: start worker process 23
+2023/09/06 15:46:49 [warn] 23#23: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:46:49 [error] 23#23: *2 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:47:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:47:10 [notice] 23#23: gracefully shutting down
+2023/09/06 15:47:10 [notice] 23#23: exiting
+2023/09/06 15:47:10 [notice] 23#23: exit
+2023/09/06 15:47:10 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/09/06 15:47:10 [notice] 1#1: worker process 23 exited with code 0
+2023/09/06 15:47:10 [notice] 1#1: exit
+2023/09/06 15:47:25 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:47:25 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:47:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:47:25 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:47:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:47:25 [notice] 1#1: start worker processes
+2023/09/06 15:47:25 [notice] 1#1: start worker process 29
+2023/09/06 15:47:49 [error] 29#29: *4 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:48:15 [error] 29#29: *4 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:48:19 [error] 29#29: *1 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:48:22 [error] 29#29: *1 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 15:49:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:49:41 [notice] 29#29: gracefully shutting down
+2023/09/06 15:49:41 [notice] 29#29: exiting
+2023/09/06 15:49:41 [notice] 29#29: exit
+2023/09/06 15:49:41 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 15:49:41 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 15:49:41 [notice] 1#1: exit
+2023/09/06 15:49:55 [notice] 1#1: using the "epoll" event method
+2023/09/06 15:49:55 [notice] 1#1: nginx/1.25.2
+2023/09/06 15:49:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 15:49:55 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 15:49:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 15:49:55 [notice] 1#1: start worker processes
+2023/09/06 15:49:55 [notice] 1#1: start worker process 29
+2023/09/06 15:50:46 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 15:59:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 15:59:51 [notice] 29#29: gracefully shutting down
+2023/09/06 15:59:51 [notice] 29#29: exiting
+2023/09/06 15:59:51 [notice] 29#29: exit
+2023/09/06 15:59:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 15:59:51 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 15:59:51 [notice] 1#1: exit
+2023/09/06 16:00:06 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:00:06 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:00:06 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:00:06 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:00:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:00:06 [notice] 1#1: start worker processes
+2023/09/06 16:00:06 [notice] 1#1: start worker process 29
+2023/09/06 16:00:11 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:00:27 [error] 29#29: *1 open() "/etc/nginx/html/usr/share/nginx/html/index.html" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /usr/share/nginx/html/index.html HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:00:34 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:01:08 [error] 29#29: *1 open() "/etc/nginx/html/usr" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /usr HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:01:16 [error] 29#29: *1 open() "/etc/nginx/html/usr/share/nginx/html/static/saved_files" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /usr/share/nginx/html/static/saved_files HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:01:31 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:01:31 [notice] 29#29: gracefully shutting down
+2023/09/06 16:01:32 [notice] 29#29: exiting
+2023/09/06 16:01:32 [notice] 29#29: exit
+2023/09/06 16:01:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:01:32 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:01:32 [notice] 1#1: exit
+2023/09/06 16:01:48 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:01:48 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:01:48 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:01:48 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:01:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:01:48 [notice] 1#1: start worker processes
+2023/09/06 16:01:48 [notice] 1#1: start worker process 29
+2023/09/06 16:01:53 [error] 29#29: *1 directory index of "/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:01:56 [error] 29#29: *1 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET /usr/share/nginx/html/static/saved_files/ HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:02:09 [error] 29#29: *1 open() "/usr/share/nginx/html/index.hrml" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /usr/share/nginx/html/index.hrml HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:02:24 [error] 29#29: *1 directory index of "/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:02:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:02:46 [notice] 29#29: gracefully shutting down
+2023/09/06 16:02:47 [notice] 29#29: exiting
+2023/09/06 16:02:47 [notice] 29#29: exit
+2023/09/06 16:02:47 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:02:47 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:02:47 [notice] 1#1: exit
+2023/09/06 16:03:02 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:03:02 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:03:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:03:02 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:03:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:03:02 [notice] 1#1: start worker processes
+2023/09/06 16:03:02 [notice] 1#1: start worker process 29
+2023/09/06 16:03:04 [error] 29#29: *1 directory index of "/usr/share/nginx/html/" is forbidden, client: 172.19.0.1, server: , request: "GET /usr/share/nginx/html/ HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:03:37 [error] 29#29: *1 open() "/css/app.45d81840.css" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /css/app.45d81840.css HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *2 open() "/css/chunk-vendors.de691de6.css" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /css/chunk-vendors.de691de6.css HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *3 open() "/js/app.7c9275be.js" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *4 open() "/js/chunk-vendors.398321e0.js" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *4 open() "/css/chunk-0420bcc4.d6bc3184.css" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /css/chunk-0420bcc4.d6bc3184.css HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *2 open() "/css/chunk-6f77c742.8d9a3d9c.css" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /css/chunk-6f77c742.8d9a3d9c.css HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *3 open() "/css/chunk-10e0d5b4.130d80ef.css" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /css/chunk-10e0d5b4.130d80ef.css HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *1 open() "/css/chunk-732a3e8c.6334cd6b.css" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /css/chunk-732a3e8c.6334cd6b.css HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *5 open() "/js/chunk-0420bcc4.11441662.js" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *6 open() "/js/chunk-10e0d5b4.e80e67b6.js" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *5 open() "/js/chunk-6f77c742.f09861a7.js" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-6f77c742.f09861a7.js HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:37 [error] 29#29: *6 open() "/js/chunk-76301fe8.cc56c3b1.js" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/index.html"
+2023/09/06 16:03:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:03:56 [notice] 29#29: gracefully shutting down
+2023/09/06 16:03:56 [notice] 29#29: exiting
+2023/09/06 16:03:56 [notice] 29#29: exit
+2023/09/06 16:03:56 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:03:56 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:03:56 [notice] 1#1: exit
+2023/09/06 16:04:10 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:04:10 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:04:10 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:04:10 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:04:10 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:04:10 [notice] 1#1: start worker processes
+2023/09/06 16:04:10 [notice] 1#1: start worker process 29
+2023/09/06 16:04:13 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/index.html" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /index.html HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:04:36 [error] 29#29: *1 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:04:43 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/index.html" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /index.html HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:04:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:04:51 [notice] 29#29: gracefully shutting down
+2023/09/06 16:04:51 [notice] 29#29: exiting
+2023/09/06 16:04:51 [notice] 29#29: exit
+2023/09/06 16:04:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:04:51 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:04:51 [notice] 1#1: exit
+2023/09/06 16:05:05 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:05:05 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:05:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:05:05 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:05:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:05:05 [notice] 1#1: start worker processes
+2023/09/06 16:05:05 [notice] 1#1: start worker process 29
+2023/09/06 16:05:08 [error] 29#29: *5 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:05:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:05:18 [notice] 29#29: gracefully shutting down
+2023/09/06 16:05:18 [notice] 29#29: exiting
+2023/09/06 16:05:18 [notice] 29#29: exit
+2023/09/06 16:05:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:05:18 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:05:18 [notice] 1#1: exit
+2023/09/06 16:05:29 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:05:29 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:05:29 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:05:29 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:05:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:05:29 [notice] 1#1: start worker processes
+2023/09/06 16:05:29 [notice] 1#1: start worker process 29
+2023/09/06 16:05:37 [error] 29#29: *2 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:05:41 [error] 29#29: *2 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:05:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:05:54 [notice] 29#29: gracefully shutting down
+2023/09/06 16:05:55 [notice] 29#29: exiting
+2023/09/06 16:05:55 [notice] 29#29: exit
+2023/09/06 16:05:55 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:05:55 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:05:55 [notice] 1#1: exit
+2023/09/06 16:06:11 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:06:11 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:06:11 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:06:11 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:06:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:06:11 [notice] 1#1: start worker processes
+2023/09/06 16:06:11 [notice] 1#1: start worker process 29
+2023/09/06 16:06:14 [error] 29#29: *2 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:06:30 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:06:30 [notice] 29#29: gracefully shutting down
+2023/09/06 16:06:44 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:06:44 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:06:44 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:06:44 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:06:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:06:44 [notice] 1#1: start worker processes
+2023/09/06 16:06:44 [notice] 1#1: start worker process 29
+2023/09/06 16:06:45 [error] 29#29: *1 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:06:47 [error] 29#29: *3 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:06:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:06:49 [notice] 29#29: gracefully shutting down
+2023/09/06 16:06:50 [notice] 29#29: exiting
+2023/09/06 16:06:50 [notice] 29#29: exit
+2023/09/06 16:06:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:06:50 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:06:50 [notice] 1#1: exit
+2023/09/06 16:07:17 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:07:17 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:07:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:07:17 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:07:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:07:17 [notice] 1#1: start worker processes
+2023/09/06 16:07:17 [notice] 1#1: start worker process 29
+2023/09/06 16:07:23 [error] 29#29: *1 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:07:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:07:52 [notice] 29#29: gracefully shutting down
+2023/09/06 16:07:52 [notice] 29#29: exiting
+2023/09/06 16:07:52 [notice] 29#29: exit
+2023/09/06 16:07:52 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:07:52 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:07:52 [notice] 1#1: exit
+2023/09/06 16:08:04 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:08:04 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:08:04 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:08:04 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:08:04 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:08:04 [notice] 1#1: start worker processes
+2023/09/06 16:08:04 [notice] 1#1: start worker process 29
+2023/09/06 16:08:08 [error] 29#29: *1 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:10:04 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:10:04 [notice] 29#29: gracefully shutting down
+2023/09/06 16:10:04 [notice] 29#29: exiting
+2023/09/06 16:10:04 [notice] 29#29: exit
+2023/09/06 16:10:04 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:10:04 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:10:04 [notice] 1#1: exit
+2023/09/06 16:10:18 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:10:18 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:10:18 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:10:18 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:10:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:10:18 [notice] 1#1: start worker processes
+2023/09/06 16:10:18 [notice] 1#1: start worker process 29
+2023/09/06 16:10:23 [error] 29#29: *2 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:13:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:13:34 [notice] 29#29: gracefully shutting down
+2023/09/06 16:13:34 [notice] 29#29: exiting
+2023/09/06 16:13:34 [notice] 29#29: exit
+2023/09/06 16:13:34 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:13:34 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:13:34 [notice] 1#1: exit
+2023/09/06 16:15:12 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:15:12 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:15:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:15:12 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:15:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:15:12 [notice] 1#1: start worker processes
+2023/09/06 16:15:12 [notice] 1#1: start worker process 29
+2023/09/06 16:15:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:15:24 [notice] 29#29: gracefully shutting down
+2023/09/06 16:15:24 [notice] 29#29: exiting
+2023/09/06 16:15:24 [notice] 29#29: exit
+2023/09/06 16:15:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:15:24 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:15:24 [notice] 1#1: exit
+2023/09/06 16:15:44 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:56
+2023/09/06 16:15:49 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:15:49 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:15:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:15:49 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:15:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:15:49 [notice] 1#1: start worker processes
+2023/09/06 16:15:49 [notice] 1#1: start worker process 22
+2023/09/06 16:16:07 [error] 22#22: *1 "/usr/share/nginx/html/static/index.html" is not found (2: No such file or directory), client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:16:11 [error] 22#22: *1 "/usr/share/nginx/html/static/index.html" is not found (2: No such file or directory), client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:16:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:16:21 [notice] 22#22: gracefully shutting down
+2023/09/06 16:16:22 [notice] 22#22: exiting
+2023/09/06 16:16:22 [notice] 22#22: exit
+2023/09/06 16:16:22 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 16:16:22 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 16:16:22 [notice] 1#1: exit
+2023/09/06 16:16:35 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:16:35 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:16:35 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:16:35 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:16:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:16:35 [notice] 1#1: start worker processes
+2023/09/06 16:16:35 [notice] 1#1: start worker process 29
+2023/09/06 16:16:39 [error] 29#29: *1 "/usr/share/nginx/html/static/index.html" is not found (2: No such file or directory), client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:16:42 [error] 29#29: *1 "/usr/share/nginx/html/static/index.html" is not found (2: No such file or directory), client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:19:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:19:32 [notice] 29#29: gracefully shutting down
+2023/09/06 16:19:32 [notice] 29#29: exiting
+2023/09/06 16:19:32 [notice] 29#29: exit
+2023/09/06 16:19:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:19:32 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:19:32 [notice] 1#1: exit
+2023/09/06 16:19:45 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 16:19:49 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:19:49 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:19:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:19:49 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:19:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:19:49 [notice] 1#1: start worker processes
+2023/09/06 16:19:49 [notice] 1#1: start worker process 22
+2023/09/06 16:20:01 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:20:01 [error] 22#22: *2 open() "/usr/share/nginx/html/static/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:22:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:22:01 [notice] 22#22: gracefully shutting down
+2023/09/06 16:22:01 [notice] 22#22: exiting
+2023/09/06 16:22:01 [notice] 22#22: exit
+2023/09/06 16:22:01 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 16:22:01 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 16:22:01 [notice] 1#1: exit
+2023/09/06 16:24:16 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:24:16 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:24:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:24:16 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:24:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:24:16 [notice] 1#1: start worker processes
+2023/09/06 16:24:16 [notice] 1#1: start worker process 29
+2023/09/06 16:24:20 [error] 29#29: *1 directory index of "/usr/share/nginx/html/static/saved_files/" is forbidden, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:24:20 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:24:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:24:58 [notice] 29#29: gracefully shutting down
+2023/09/06 16:24:59 [notice] 29#29: exiting
+2023/09/06 16:24:59 [notice] 29#29: exit
+2023/09/06 16:24:59 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:24:59 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:24:59 [notice] 1#1: exit
+2023/09/06 16:25:12 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:25:12 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:25:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:25:12 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:25:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:25:12 [notice] 1#1: start worker processes
+2023/09/06 16:25:12 [notice] 1#1: start worker process 29
+2023/09/06 16:25:17 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:25:17 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:25:17 [error] 29#29: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:25:17 [error] 29#29: *4 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:25:17 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:25:17 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 16:26:05 [warn] 29#29: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:26:05 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-08-02 22-22-37.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-02%2022-22-37.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:26:07 [error] 29#29: *1 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-08-02 22-22-37.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-02%2022-22-37.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:26:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:26:11 [notice] 29#29: gracefully shutting down
+2023/09/06 16:26:11 [notice] 29#29: exiting
+2023/09/06 16:26:11 [notice] 29#29: exit
+2023/09/06 16:26:11 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:26:11 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:26:11 [notice] 1#1: exit
+2023/09/06 16:26:25 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:26:25 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:26:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:26:25 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:26:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:26:25 [notice] 1#1: start worker processes
+2023/09/06 16:26:25 [notice] 1#1: start worker process 29
+2023/09/06 16:27:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:27:25 [notice] 29#29: gracefully shutting down
+2023/09/06 16:27:26 [notice] 29#29: exiting
+2023/09/06 16:27:26 [notice] 29#29: exit
+2023/09/06 16:27:26 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 16:27:26 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 16:27:26 [notice] 1#1: exit
+2023/09/06 16:27:38 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 16:27:46 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:27:46 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:27:46 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:27:46 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:27:46 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:27:46 [notice] 1#1: start worker processes
+2023/09/06 16:27:46 [notice] 1#1: start worker process 22
+2023/09/06 16:42:39 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:45:58 [warn] 22#22: *5 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 16:50:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:50:52 [notice] 22#22: gracefully shutting down
+2023/09/06 16:50:52 [notice] 22#22: exiting
+2023/09/06 16:50:52 [notice] 22#22: exit
+2023/09/06 16:50:52 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 16:50:52 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 16:50:52 [notice] 1#1: exit
+2023/09/06 16:57:10 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 16:57:15 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:57:15 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:57:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:57:15 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:57:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:57:15 [notice] 1#1: start worker processes
+2023/09/06 16:57:15 [notice] 1#1: start worker process 22
+2023/09/06 16:57:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:57:45 [notice] 22#22: gracefully shutting down
+2023/09/06 16:57:45 [notice] 22#22: exiting
+2023/09/06 16:57:45 [notice] 22#22: exit
+2023/09/06 16:57:45 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 16:57:45 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 16:57:45 [notice] 1#1: exit
+2023/09/06 16:57:56 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 16:58:00 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:58:00 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:58:00 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:58:00 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:58:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:58:00 [notice] 1#1: start worker processes
+2023/09/06 16:58:00 [notice] 1#1: start worker process 22
+2023/09/06 16:59:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 16:59:19 [notice] 22#22: gracefully shutting down
+2023/09/06 16:59:19 [notice] 22#22: exiting
+2023/09/06 16:59:19 [notice] 22#22: exit
+2023/09/06 16:59:19 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 16:59:19 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 16:59:19 [notice] 1#1: exit
+2023/09/06 16:59:26 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 16:59:30 [notice] 1#1: using the "epoll" event method
+2023/09/06 16:59:30 [notice] 1#1: nginx/1.25.2
+2023/09/06 16:59:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 16:59:30 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 16:59:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 16:59:30 [notice] 1#1: start worker processes
+2023/09/06 16:59:30 [notice] 1#1: start worker process 22
+2023/09/06 17:00:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:00:01 [notice] 22#22: gracefully shutting down
+2023/09/06 17:00:01 [notice] 22#22: exiting
+2023/09/06 17:00:01 [notice] 22#22: exit
+2023/09/06 17:00:01 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:00:01 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:00:01 [notice] 1#1: exit
+2023/09/06 17:00:14 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:00:19 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:00:19 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:00:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:00:19 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:00:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:00:19 [notice] 1#1: start worker processes
+2023/09/06 17:00:19 [notice] 1#1: start worker process 22
+2023/09/06 17:01:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:01:32 [notice] 22#22: gracefully shutting down
+2023/09/06 17:01:32 [notice] 22#22: exiting
+2023/09/06 17:01:32 [notice] 22#22: exit
+2023/09/06 17:01:32 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:01:32 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:01:32 [notice] 1#1: exit
+2023/09/06 17:03:07 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:03:11 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:03:11 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:03:11 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:03:11 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:03:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:03:11 [notice] 1#1: start worker processes
+2023/09/06 17:03:11 [notice] 1#1: start worker process 22
+2023/09/06 17:05:06 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:05:06 [notice] 22#22: gracefully shutting down
+2023/09/06 17:05:06 [notice] 22#22: exiting
+2023/09/06 17:05:06 [notice] 22#22: exit
+2023/09/06 17:05:06 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:05:06 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:05:06 [notice] 1#1: exit
+2023/09/06 17:06:23 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:06:28 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:06:28 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:06:28 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:06:28 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:06:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:06:28 [notice] 1#1: start worker processes
+2023/09/06 17:06:28 [notice] 1#1: start worker process 22
+2023/09/06 17:06:37 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:06:37 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-08-30 17-52-44.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-08-30%2017-52-44.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:06:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:06:45 [notice] 22#22: gracefully shutting down
+2023/09/06 17:06:45 [notice] 22#22: exiting
+2023/09/06 17:06:45 [notice] 22#22: exit
+2023/09/06 17:06:45 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:06:45 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:06:45 [notice] 1#1: exit
+2023/09/06 17:07:01 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:07:04 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:07:04 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:07:04 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:07:04 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:07:04 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:07:04 [notice] 1#1: start worker processes
+2023/09/06 17:07:04 [notice] 1#1: start worker process 23
+2023/09/06 17:08:55 [warn] 23#23: *6 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:08:55 [warn] 23#23: *7 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:15:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:15:07 [notice] 23#23: gracefully shutting down
+2023/09/06 17:15:07 [notice] 23#23: exiting
+2023/09/06 17:15:07 [notice] 23#23: exit
+2023/09/06 17:15:07 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/09/06 17:15:07 [notice] 1#1: worker process 23 exited with code 0
+2023/09/06 17:15:07 [notice] 1#1: exit
+2023/09/06 17:15:25 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:15:29 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:15:29 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:15:29 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:15:29 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:15:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:15:29 [notice] 1#1: start worker processes
+2023/09/06 17:15:29 [notice] 1#1: start worker process 22
+2023/09/06 17:15:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:15:54 [notice] 22#22: gracefully shutting down
+2023/09/06 17:15:55 [notice] 22#22: exiting
+2023/09/06 17:15:55 [notice] 22#22: exit
+2023/09/06 17:15:55 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:15:55 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:15:55 [notice] 1#1: exit
+2023/09/06 17:16:08 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:16:12 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:16:12 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:16:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:16:12 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:16:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:16:12 [notice] 1#1: start worker processes
+2023/09/06 17:16:12 [notice] 1#1: start worker process 22
+2023/09/06 17:21:35 [error] 22#22: *12 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:35 [error] 22#22: *12 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:35 [error] 22#22: *8 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:35 [error] 22#22: *7 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:35 [error] 22#22: *13 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:35 [error] 22#22: *14 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:36 [error] 22#22: *14 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:36 [error] 22#22: *13 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:36 [error] 22#22: *13 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:36 [error] 22#22: *13 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:36 [error] 22#22: *14 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:36 [error] 22#22: *14 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:51 [error] 22#22: *13 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:51 [error] 22#22: *14 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:51 [error] 22#22: *14 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:51 [error] 22#22: *13 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:51 [error] 22#22: *7 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:51 [error] 22#22: *8 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:21:52 [warn] 22#22: *8 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:33:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:33:38 [notice] 22#22: gracefully shutting down
+2023/09/06 17:33:38 [notice] 22#22: exiting
+2023/09/06 17:33:38 [notice] 22#22: exit
+2023/09/06 17:33:38 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:33:38 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:33:38 [notice] 1#1: exit
+2023/09/06 17:33:55 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:33:59 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:33:59 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:33:59 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:33:59 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:33:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:33:59 [notice] 1#1: start worker processes
+2023/09/06 17:33:59 [notice] 1#1: start worker process 22
+2023/09/06 17:34:03 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:34:03 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:34:03 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:34:03 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:34:03 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:34:03 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:34:11 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:34:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:34:26 [notice] 22#22: gracefully shutting down
+2023/09/06 17:34:26 [notice] 22#22: exiting
+2023/09/06 17:34:26 [notice] 22#22: exit
+2023/09/06 17:34:26 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:34:26 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:34:26 [notice] 1#1: exit
+2023/09/06 17:34:55 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:35:01 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:35:01 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:35:01 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:35:01 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:35:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:35:01 [notice] 1#1: start worker processes
+2023/09/06 17:35:01 [notice] 1#1: start worker process 22
+2023/09/06 17:35:08 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:08 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:08 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:08 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:08 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:08 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:26 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:26 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:26 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:26 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:27 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:27 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:35:31 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:41:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:41:22 [notice] 22#22: gracefully shutting down
+2023/09/06 17:41:22 [notice] 22#22: exiting
+2023/09/06 17:41:22 [notice] 22#22: exit
+2023/09/06 17:41:22 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:41:22 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:41:22 [notice] 1#1: exit
+2023/09/06 17:41:35 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:41:39 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:41:39 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:41:39 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:41:39 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:41:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:41:39 [notice] 1#1: start worker processes
+2023/09/06 17:41:39 [notice] 1#1: start worker process 22
+2023/09/06 17:41:50 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:41:50 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:41:50 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:41:50 [error] 22#22: *6 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:41:50 [error] 22#22: *7 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:41:50 [error] 22#22: *8 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:41:51 [warn] 22#22: *8 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:42:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:42:46 [notice] 22#22: gracefully shutting down
+2023/09/06 17:42:46 [notice] 22#22: exiting
+2023/09/06 17:42:46 [notice] 22#22: exit
+2023/09/06 17:42:46 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:42:46 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:42:46 [notice] 1#1: exit
+2023/09/06 17:43:07 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:43:11 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:43:11 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:43:11 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:43:11 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:43:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:43:11 [notice] 1#1: start worker processes
+2023/09/06 17:43:11 [notice] 1#1: start worker process 22
+2023/09/06 17:43:16 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:44:14 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:44:14 [notice] 22#22: gracefully shutting down
+2023/09/06 17:44:14 [notice] 22#22: exiting
+2023/09/06 17:44:14 [notice] 22#22: exit
+2023/09/06 17:44:14 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:44:14 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:44:14 [notice] 1#1: exit
+2023/09/06 17:44:35 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:44:40 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:44:40 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:44:40 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:44:40 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:44:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:44:40 [notice] 1#1: start worker processes
+2023/09/06 17:44:40 [notice] 1#1: start worker process 22
+2023/09/06 17:44:45 [warn] 22#22: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:50:17 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:50:17 [notice] 22#22: gracefully shutting down
+2023/09/06 17:50:17 [notice] 22#22: exiting
+2023/09/06 17:50:17 [notice] 22#22: exit
+2023/09/06 17:50:17 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:50:17 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:50:17 [notice] 1#1: exit
+2023/09/06 17:50:38 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:50:42 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:50:46 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:50:49 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:50:52 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:50:55 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:50:59 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:51:11 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:51:16 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:51:16 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:51:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:51:16 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:51:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:51:16 [notice] 1#1: start worker processes
+2023/09/06 17:51:16 [notice] 1#1: start worker process 23
+2023/09/06 17:51:23 [error] 23#23: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:23 [error] 23#23: *2 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:23 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:23 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:23 [error] 23#23: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:23 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [error] 23#23: *2 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [error] 23#23: *6 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [error] 23#23: *7 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [error] 23#23: *6 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:51:30 [warn] 23#23: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:53:30 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:53:30 [notice] 23#23: gracefully shutting down
+2023/09/06 17:53:30 [notice] 23#23: exiting
+2023/09/06 17:53:30 [notice] 23#23: exit
+2023/09/06 17:53:30 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/09/06 17:53:30 [notice] 1#1: worker process 23 exited with code 0
+2023/09/06 17:53:30 [notice] 1#1: exit
+2023/09/06 17:55:10 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 17:55:14 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:55:14 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:55:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:55:14 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:55:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:55:14 [notice] 1#1: start worker processes
+2023/09/06 17:55:14 [notice] 1#1: start worker process 22
+2023/09/06 17:55:27 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:55:27 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:55:27 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:55:27 [error] 22#22: *4 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:55:27 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:55:27 [error] 22#22: *4 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 17:55:43 [warn] 22#22: *4 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:55:43 [warn] 22#22: *2 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:55:43 [error] 22#22: *2 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-09-01 17-51-33.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-01%2017-51-33.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:55:43 [error] 22#22: *4 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-09-05 00-22-01.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-05%2000-22-01.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 17:55:48 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 17:55:48 [notice] 22#22: gracefully shutting down
+2023/09/06 17:55:48 [notice] 22#22: exiting
+2023/09/06 17:55:48 [notice] 22#22: exit
+2023/09/06 17:55:48 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 17:55:48 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 17:55:48 [notice] 1#1: exit
+2023/09/06 17:56:02 [notice] 1#1: using the "epoll" event method
+2023/09/06 17:56:02 [notice] 1#1: nginx/1.25.2
+2023/09/06 17:56:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 17:56:02 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 17:56:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 17:56:02 [notice] 1#1: start worker processes
+2023/09/06 17:56:02 [notice] 1#1: start worker process 29
+2023/09/06 18:03:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:03:37 [notice] 29#29: gracefully shutting down
+2023/09/06 18:03:37 [notice] 29#29: exiting
+2023/09/06 18:03:37 [notice] 29#29: exit
+2023/09/06 18:03:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/09/06 18:03:37 [notice] 1#1: worker process 29 exited with code 0
+2023/09/06 18:03:37 [notice] 1#1: exit
+2023/09/06 18:03:49 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:03:54 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:03:54 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:03:54 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:03:54 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:03:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:03:54 [notice] 1#1: start worker processes
+2023/09/06 18:03:54 [notice] 1#1: start worker process 22
+2023/09/06 18:05:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:05:10 [notice] 22#22: gracefully shutting down
+2023/09/06 18:05:10 [notice] 22#22: exiting
+2023/09/06 18:05:10 [notice] 22#22: exit
+2023/09/06 18:05:10 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 18:05:10 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 18:05:10 [notice] 1#1: exit
+2023/09/06 18:05:23 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:05:28 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:05:28 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:05:28 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:05:28 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:05:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:05:28 [notice] 1#1: start worker processes
+2023/09/06 18:05:28 [notice] 1#1: start worker process 23
+2023/09/06 18:07:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:07:26 [notice] 23#23: gracefully shutting down
+2023/09/06 18:07:26 [notice] 23#23: exiting
+2023/09/06 18:07:26 [notice] 23#23: exit
+2023/09/06 18:07:26 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/09/06 18:07:26 [notice] 1#1: worker process 23 exited with code 0
+2023/09/06 18:07:26 [notice] 1#1: exit
+2023/09/06 18:07:39 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:07:43 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:07:43 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:07:43 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:07:43 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:07:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:07:43 [notice] 1#1: start worker processes
+2023/09/06 18:07:43 [notice] 1#1: start worker process 22
+2023/09/06 18:08:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:08:13 [notice] 22#22: gracefully shutting down
+2023/09/06 18:08:14 [notice] 22#22: exiting
+2023/09/06 18:08:14 [notice] 22#22: exit
+2023/09/06 18:08:14 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 18:08:14 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 18:08:14 [notice] 1#1: exit
+2023/09/06 18:08:55 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:08:59 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:08:59 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:08:59 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:08:59 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:08:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:08:59 [notice] 1#1: start worker processes
+2023/09/06 18:08:59 [notice] 1#1: start worker process 22
+2023/09/06 18:09:02 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/[object Object]" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /[object%20Object] HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:10:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:10:32 [notice] 22#22: gracefully shutting down
+2023/09/06 18:10:32 [notice] 22#22: exiting
+2023/09/06 18:10:32 [notice] 22#22: exit
+2023/09/06 18:10:32 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 18:10:32 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 18:10:32 [notice] 1#1: exit
+2023/09/06 18:10:44 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:10:48 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:10:48 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:10:48 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:10:48 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:10:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:10:48 [notice] 1#1: start worker processes
+2023/09/06 18:10:48 [notice] 1#1: start worker process 22
+2023/09/06 18:10:52 [error] 22#22: *1 open() "/usr/share/nginx/html/static/saved_files/[object Object]" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /[object%20Object] HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:12:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:12:44 [notice] 22#22: gracefully shutting down
+2023/09/06 18:12:44 [notice] 22#22: exiting
+2023/09/06 18:12:44 [notice] 22#22: exit
+2023/09/06 18:12:44 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 18:12:44 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 18:12:44 [notice] 1#1: exit
+2023/09/06 18:12:56 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:13:01 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:13:01 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:13:01 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:13:01 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:13:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:13:01 [notice] 1#1: start worker processes
+2023/09/06 18:13:01 [notice] 1#1: start worker process 22
+2023/09/06 18:19:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:19:07 [notice] 22#22: gracefully shutting down
+2023/09/06 18:19:07 [notice] 22#22: exiting
+2023/09/06 18:19:07 [notice] 22#22: exit
+2023/09/06 18:19:07 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 18:19:07 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 18:19:07 [notice] 1#1: exit
+2023/09/06 18:19:19 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:19:23 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:19:23 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:19:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:19:23 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:19:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:19:23 [notice] 1#1: start worker processes
+2023/09/06 18:19:23 [notice] 1#1: start worker process 22
+2023/09/06 18:20:47 [warn] 22#22: *8 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:20:47 [error] 22#22: *8 open() "/usr/share/nginx/html/static/saved_files/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:23:51 [error] 22#22: *12 open() "/usr/share/nginx/html/static/saved_files/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:25:08 [error] 22#22: *15 open() "/usr/share/nginx/html/static/saved_files/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:25:17 [warn] 22#22: *15 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:25:17 [error] 22#22: *15 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-09-03 22-46-27.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-03%2022-46-27.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:25:17 [error] 22#22: *23 open() "/usr/share/nginx/html/static/saved_files/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:29:10 [error] 22#22: *49 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:29:10 [error] 22#22: *50 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:29:10 [error] 22#22: *49 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:29:10 [error] 22#22: *49 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:29:10 [error] 22#22: *50 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:29:10 [error] 22#22: *51 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:29:16 [warn] 22#22: *51 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.19.0.1, server: , request: "POST /api/medias HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:29:16 [error] 22#22: *51 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-09-02 01-06-50.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-02%2001-06-50.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:29:16 [error] 22#22: *50 open() "/usr/share/nginx/html/static/saved_files/GTAV_Official_Cover_Art.jpg" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /GTAV_Official_Cover_Art.jpg HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:29:16 [error] 22#22: *49 open() "/usr/share/nginx/html/static/saved_files/Снимок экрана от 2023-09-03 22-46-27.png" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-09-03%2022-46-27.png HTTP/1.1", host: "0.0.0.0:81", referrer: "http://0.0.0.0:81/"
+2023/09/06 18:30:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:30:57 [notice] 22#22: gracefully shutting down
+2023/09/06 18:30:57 [notice] 22#22: exiting
+2023/09/06 18:30:57 [notice] 22#22: exit
+2023/09/06 18:30:57 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2023/09/06 18:30:57 [notice] 1#1: worker process 22 exited with code 0
+2023/09/06 18:30:57 [notice] 1#1: exit
+2023/09/06 18:31:18 [emerg] 1#1: host not found in upstream "app:8000" in /etc/nginx/nginx.conf:61
+2023/09/06 18:31:22 [notice] 1#1: using the "epoll" event method
+2023/09/06 18:31:22 [notice] 1#1: nginx/1.25.2
+2023/09/06 18:31:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2023/09/06 18:31:22 [notice] 1#1: OS: Linux 6.2.0-32-generic
+2023/09/06 18:31:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/09/06 18:31:22 [notice] 1#1: start worker processes
+2023/09/06 18:31:22 [notice] 1#1: start worker process 23
+2023/09/06 18:31:28 [error] 23#23: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-vendors.398321e0.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-vendors.398321e0.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:31:28 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/app.7c9275be.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/app.7c9275be.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:31:28 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-76301fe8.cc56c3b1.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-76301fe8.cc56c3b1.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:31:28 [error] 23#23: *2 open() "/usr/share/nginx/html/static/saved_files/js/chunk-10e0d5b4.e80e67b6.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-10e0d5b4.e80e67b6.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:31:28 [error] 23#23: *1 open() "/usr/share/nginx/html/static/saved_files/js/chunk-0420bcc4.11441662.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-0420bcc4.11441662.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:31:28 [error] 23#23: *6 open() "/usr/share/nginx/html/static/saved_files/js/chunk-732a3e8c.57e36fb4.js.map" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /js/chunk-732a3e8c.57e36fb4.js.map HTTP/1.1", host: "0.0.0.0:81"
+2023/09/06 18:38:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/09/06 18:38:54 [notice] 23#23: gracefully shutting down
+2023/09/06 18:38:54 [notice] 23#23: exiting
+2023/09/06 18:38:54 [notice] 23#23: exit
+2023/09/06 18:38:54 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2023/09/06 18:38:54 [notice] 1#1: worker process 23 exited with code 0
+2023/09/06 18:38:54 [notice] 1#1: exit

@@ -1,0 +1,48 @@
+version: '3.9'
+
+networks:
+  twitter_clone:
+    driver: bridge
+
+services:
+  server:
+    build: ./server
+    depends_on:
+      - postgres
+    container_name: twitter-nginx
+    restart: on-failure
+    env_file: .env
+    networks:
+      - twitter_clone
+    ports:
+      - "81:81"
+    working_dir: /usr/share/nginx/html/static
+    volumes:
+      - ./server/static/:/usr/share/nginx/html/static:rw
+      - ./server/logs/:/var/log/nginx/
+
+  app:
+    env_file:
+      - .env
+    build: ./app
+    depends_on:
+      - server
+    ports:
+      - "8000:8000"
+    networks:
+      - twitter_clone
+    volumes:
+      - ./server/static/:/app/saved_files:rw
+
+  postgres:
+    env_file:
+      - .env
+    image: postgres
+    environment:
+      LOG_DESTINATION: "stderr"
+      LOGGINIG_COLLECTOR: "on"
+      LOG_DIRECTORY: '/var/lib/postgresql/data'
+    ports:
+      - "5432:5432"
+    networks:
+      - twitter_clone
